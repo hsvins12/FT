@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><inits id="N017E5200FD711EABC34F994AD7300C5" type="com.ibm.rational.test.ft.aftsuite"><group><tests><test path="/NewFeatures95/Tests/Test1.testsuite"/><test path="/NewFeatures95/Tests/Test2.testsuite"/></tests><browsers><browser name="chrome"/></browsers></group></inits>
